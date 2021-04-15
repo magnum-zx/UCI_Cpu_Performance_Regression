@@ -4,7 +4,7 @@ Regression using UCI CpuSet
 DataSet:
 you can get data via
 
-  __`df = pd.read_csv('./machine.data', sep=',', header=None)`__
+ > `df = pd.read_csv('./machine.data', sep=',', header=None)`
 
 DataSet Attribute Information:
 1. vendor name: 30
