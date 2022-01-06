@@ -1,4 +1,4 @@
-# UCI_CpuPerformance_Regression-
+# UCI_Cpu_Performance_Regression
 Regression using UCI CpuSet
 
 DataSet:
